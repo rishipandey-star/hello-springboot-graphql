@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.rishi.springboot.graphql</groupId>
 	<artifactId>hello-springboot-graphql</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>hello-springboot-graphql</name>
 	<description>Demo project for Spring Boot GraphQL</description>
 
@@ -61,7 +61,6 @@
 			<version>5.2.4</version>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>

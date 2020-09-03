@@ -4,6 +4,8 @@ Sample Project that shows how to integrate GraphQL with SpringBoot and Java
 # EndPoint
 
 POST /v1/products
+
+POST /V1/hello
 # Getting Started
 
 ### Reference Documentation
